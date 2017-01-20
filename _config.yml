@@ -1,9 +1,9 @@
 # Site settings
-title: PHOTORAMA
+title: Fighters4Wildlife
 email: ""
-description: "Photo Journal"
-url: "http://sunbliss.github.io"
-baseurl: "/photorama"
+description: "Endangered Species Journal"
+url: "http://fighters4wildlife.github.io"
+baseurl: "/endangered-species"
 facebook_username: ""
 twitter_username: ""
 instagram_username: ""
@@ -33,9 +33,9 @@ comments :
 
 # Internal nav
 nav:
-  - GALLERY: "http://sunbliss.github.io/photorama/gallery/"  
-  - JOURNAL: "http://sunbliss.github.io/photorama/journal/"
-  - ABOUT: "http://sunbliss.github.io/photorama/about/"
+  - GALLERY: "http://fighters4wildlife.github.io/edangered-species/gallery/"  
+  - JOURNAL: "http://fighters4wildlife.github.io/edangered-species/journal/"
+  - ABOUT: "http://fighters4wildlife.github.io/edangered-species/about/"
 
 # All translation keys
 translations:
