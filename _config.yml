@@ -13,6 +13,7 @@ flickr_username: ""
 discus_shortname: ""
 share: true
 future: true
+timezone: US
 
 # Owner/author information
 owner:
