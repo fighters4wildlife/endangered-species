@@ -33,9 +33,9 @@ comments :
 
 # Internal nav
 nav:
-  - GALLERY: "http://fighters4wildlife.github.io/edangered-species/gallery/"  
-  - JOURNAL: "http://fighters4wildlife.github.io/edangered-species/journal/"
-  - ABOUT: "http://fighters4wildlife.github.io/edangered-species/about/"
+  - GALLERY: "http://fighters4wildlife.github.io/endangered-species/gallery/"  
+  - JOURNAL: "http://fighters4wildlife.github.io/endangered-species/journal/"
+  - ABOUT: "http://fighters4wildlife.github.io/endangered-species/about/"
 
 # All translation keys
 translations:
