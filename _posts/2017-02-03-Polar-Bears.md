@@ -19,4 +19,4 @@ Polar bears live in the arctic. It can reguarly be below 30 degrees. Protect the
  
   They also can eat walrus, which can be dangerous because of sharp tusks. They also eat whale, small rodents, fish, eggs, sea birds, and berries. Hunting takes up 50% of a polar bear's life!
   
-  Polar bears are endangered because of global warming, which melts their ice and habitat. Another is oil spills which poison their prey and makes them sick. You can help Polar bears at <PolarBearsinternational.org>
+  Polar bears are endangered because of global warming, which melts their ice and habitat. Another is oil spills which poison their prey and makes them sick. You can help Polar bears at <https://PolarBearsinternational.org>
