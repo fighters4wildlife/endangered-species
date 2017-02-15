@@ -1,5 +1,15 @@
 ---
-published: false
+published: true
+layout: post
+active: journal
+image:
+  feature: amur-leopard.jpg
+date: 2017-01-27T00:00:00.000Z
+header-img: img/postcover/amur-leopard.jpg
+tags:
+  - tag01
+categories:
+  - cat01
 ---
 The Amar leopard is the leopard that lives  the farthest north.  It lives in parts of Russia, China  and even a few spotted in North Korea!  It is a leopard CA subspieces is a type of an animal that is a type of that animal but a small difference so a different name.
 
