@@ -13,5 +13,5 @@ They live 10-15 year, normally.  They have 1-4 cubs, this happens in summer or s
 
 In 2007, there were 19-26 left in the wild.  Today, there are 70 grown up Amur leopards in the wild.  This is because of poaching and loosing their land.
 
-You can help them and learn more at http://www.worldwildlife.org/Amur%20Leopard.
+You can help them and learn more at <http://www.worldwildlife.org/Amur%20Leopard>.
 
