@@ -35,7 +35,7 @@ comments :
 
 # Internal nav
 nav:
-  - GALLERY: "http://fighters4wildlife.github.io/endangered-species/gallery/"  
+  #- GALLERY: "http://fighters4wildlife.github.io/endangered-species/gallery/"  
   - JOURNAL: "http://fighters4wildlife.github.io/endangered-species/journal/"
   - ABOUT: "http://fighters4wildlife.github.io/endangered-species/about/"
 
